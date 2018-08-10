@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/minimin2code/first-react-proj/",
+  "homepage": "https://github.com/minimin2code/first-react-proj-website/",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
